@@ -1,14 +1,15 @@
-# ImageSearchUnsplash
+# ImageSearchUnsplash App
 
 
 ## What did i learn while building this project?
 
-1- Hilt
-2- Retrofit
-3- Navigation
-4- Paging 3
-5- Data Binding
-and more...
+This project is used by the following companies:
+- Hilt
+- Retrofit using unsplash api
+- Navigation component
+- Paging 3
+- Data Binding
+- and more...
 
 ## Screenshots
 
