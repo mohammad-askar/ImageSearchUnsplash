@@ -1,9 +1,9 @@
 # ImageSearchUnsplash App
 
 
-## What did i learn while building this project?
 
-This project is used by the following companies:
+
+What did i learn while building this project?
 - Hilt
 - Retrofit using unsplash api
 - Navigation component
